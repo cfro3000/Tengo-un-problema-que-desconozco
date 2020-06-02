@@ -1,0 +1,2 @@
+# Tengo-un-problema-que-desconozco
+Ayuda tengo un problema extrano que evita que abra mis juegos como el Terraria o el Borderlands 2 pero sospecho que podria ser el .NET Framework aunque no me salta un error directamente pero de alguna forma llegue a un código de error que es este 0x80131040 y pues la verdad me llevo al algo de Visual studio pero no parece que eso afecte en mis juegos y quiero saber si hay alguna solucion
